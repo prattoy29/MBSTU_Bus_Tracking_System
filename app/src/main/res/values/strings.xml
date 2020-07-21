@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+
+    <string-array name="buses">
+        <item> 0025,4961 </item>
+        <item> 0025,0006,4961,0031,0001,0002,0003,0004 </item>
+        <item> 0025,0006,4961,0031 </item>
+        <item> 0025,0031,0006 </item>
+        <item> 0025,0006,4961,0031,0003  </item>
+        <item> 0031,0003,0004  </item>
+        <item> 0002,4961  </item>
+        <item> 0025,0006,4961,0031,0004  </item>
+        <item>0025,0006,4961,0031,0001,0002,0003,0004</item>
+        <item> 0031,0001,0002  </item>
+        <item> 0002,0003,0004  </item>
+        <item> 0001  </item>
+
+    </string-array>
+
+    <string-array name="timecampus">
+    <item>   </item>
+    <item> 8:00 a.m </item>
+    <item> 9:00 a.m </item>
+    <item> 10:10 a.m </item>
+    <item> 12:00 p.m  </item>
+    <item> 01:10 p.m  </item>
+    <item> 02:10 p.m  </item>
+    <item> 03:10 p.m  </item>
+    <item> 04:10 p.m  </item>
+    <item> 05:10 p.m  </item>
+    <item> 06:10 p.m  </item>
+    <item> 08:15 p.m  </item>
+    <item> 09:10 p.m  </item>
+</string-array>
+
+    <string-array name="timecity">
+        <item> 07:30 a.m</item>
+        <item> 08:30 a.m </item>
+        <item> 09:30 a.m </item>
+        <item> 10:30 a.m </item>
+        <item> 12:30 p.m  </item>
+        <item> 01:30 p.m  </item>
+        <item> 02:30 p.m  </item>
+        <item> 03:30 p.m  </item>
+        <item> 04:30 p.m  </item>
+        <item> 05:30 p.m  </item>
+        <item> 06:30 p.m  </item>
+        <item> 08:45 p.m  </item>
+        <item> 09:30 p.m  </item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

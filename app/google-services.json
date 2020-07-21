@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "802350513992",
+    "firebase_url": "https://schedulo-2708a.firebaseio.com",
+    "project_id": "schedulo-2708a",
+    "storage_bucket": "schedulo-2708a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802350513992:android:cf37ca98e66ed29d5cfd7d",
+        "android_client_info": {
+          "package_name": "com.example.prattoy.schedulo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802350513992-ridf1nhldos1kdslaujmsn30finuh09h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prattoy.schedulo",
+            "certificate_hash": "de61d0bdd23e02bd84e54cdc6c1200917e926b28"
+          }
+        },
+        {
+          "client_id": "802350513992-absgp0dt1953voag56k5slsk81ni8co0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prattoy.schedulo",
+            "certificate_hash": "18d8c20936a88af54bc9f26ef88c2808cf66d821"
+          }
+        },
+        {
+          "client_id": "802350513992-pitlnp0rukrbtbgg5pes7t0tucncot17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa6Hq3rcTxnpvZRAty2VDO_G3IWALc75E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802350513992-pitlnp0rukrbtbgg5pes7t0tucncot17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802350513992:android:fb3af3338263b02c5cfd7d",
+        "android_client_info": {
+          "package_name": "com.example.prattoy.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802350513992-phdqtlb1e1l19dd3mdmte6dfbcresi4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prattoy.student",
+            "certificate_hash": "de61d0bdd23e02bd84e54cdc6c1200917e926b28"
+          }
+        },
+        {
+          "client_id": "802350513992-5ph7l83vpjrt6e9hm3pvdt7gmghd3si6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prattoy.student",
+            "certificate_hash": "18d8c20936a88af54bc9f26ef88c2808cf66d821"
+          }
+        },
+        {
+          "client_id": "802350513992-pitlnp0rukrbtbgg5pes7t0tucncot17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa6Hq3rcTxnpvZRAty2VDO_G3IWALc75E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802350513992-pitlnp0rukrbtbgg5pes7t0tucncot17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

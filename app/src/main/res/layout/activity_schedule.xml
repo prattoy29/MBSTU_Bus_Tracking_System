@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.prattoy.student.ScheduleActivity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:clickable="true"
+        android:onClick="onClick"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="151dp"
+        android:text="Working Days"
+        android:padding="10dp"
+        android:textAllCaps="false"
+        android:id="@+id/button1" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:clickable="true"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp"
+        android:padding="10dp"
+        android:text="Thursday"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_alignStart="@+id/button2"
+        android:layout_below="@+id/button2"
+        android:layout_marginTop="18dp"
+        android:clickable="true"
+        android:onClick="onClick"
+        android:padding="10dp"
+        android:text="Friday"
+        android:textAllCaps="false" />
+
+</RelativeLayout>

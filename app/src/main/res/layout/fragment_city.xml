@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.prattoy.student.city">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ListView
+        android:id="@+id/list1"
+        android:divider="#b6000000"
+        android:dividerHeight="7dp"
+        android:nextFocusUp="@color/black"
+        android:smoothScrollbar="true"
+        android:listSelector="#b66d7fa4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+
+</FrameLayout>
